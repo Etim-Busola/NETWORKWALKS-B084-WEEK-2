@@ -1,4 +1,3 @@
-
 # Penetration Testing Report: Footprinting & Network Scanning
 
 **Week 2 Practical | Cybersecurity & Ethical Hacking | Networkwalks**
